@@ -1,0 +1,4 @@
+selenium==3.141.0
+config==0.5.0.post0
+configobj==5.0.6
+Jinja2==2.11.2
